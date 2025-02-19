@@ -4,7 +4,7 @@ This is a React-based movie search app that utilizes the [OMDb API](https://www.
 
 
 # Demo
-
+https://github.com/user-attachments/assets/c23206f9-e7f0-486d-8a36-f2f6a450eda2
 
 
 
